@@ -7,12 +7,12 @@ The 79 cell specimens, were analyzed in an effort to
 determine if certain chemical characteristics of the drug might be related to the
 formation of DNA-drug complex.
 The six chemical characteristics of the drug are: 
-(1) specific gravity, the density of the drug given relative to water; 
-(2) pH, the negative logarithm of the hydrogen ion; 
-(3) osmolarity (mOsm), a unit used in biology and medicine but not in physical chemistry.
-(4) conductivity (mMho milliMho). One Mho is one reciprocal Ohm.
-(5) alanine concentration in millimoles per litre; and 
-(6) metal concentration (MET) in millimolesllitre.
+- (1) specific gravity, the density of the drug given relative to water; 
+- (2) pH, the negative logarithm of the hydrogen ion; 
+- (3) osmolarity (mOsm), a unit used in biology and medicine but not in physical chemistry.
+- (4) conductivity (mMho milliMho). One Mho is one reciprocal Ohm.
+- (5) alanine concentration in millimoles per litre; and 
+- (6) metal concentration (MET) in millimolesllitre.
 
 ### Performing Basic EDA and training
 
