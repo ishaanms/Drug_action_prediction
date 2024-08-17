@@ -19,9 +19,9 @@ The six chemical characteristics of the drug are:
 To explore the dataset, I have performed basic EDA by loading the dataset into Python's Pandas library. I have checked for missing values, computed summary statistics, and created visualizations of the data. This EDA helps in understanding the dataset and identifying potential issues that need to be addressed before training models.
 
 Several machine learning algorithms were used to train, test and evaluate the model, including:
-> Logistic Regression
-> Random Forest
-> XGBoost 
+- Logistic Regression
+- Random Forest
+- XGBoost 
 
 ### Conclusion :
 
